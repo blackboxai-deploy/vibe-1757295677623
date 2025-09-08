@@ -1,0 +1,348 @@
+{
+  "portugues": {
+    "procedimentos_leitura": [
+      {
+        "codigo": "H01",
+        "habilidade": "Localizar informações explícitas em um texto",
+        "descricao": "Identificar informações que estão claramente expostas no texto, sem necessidade de inferência.",
+        "exemplos": [
+          "Em que cidade acontece a história?",
+          "Qual é o nome do personagem principal?",
+          "Quando ocorreu o evento descrito?"
+        ]
+      },
+      {
+        "codigo": "H02", 
+        "habilidade": "Inferir o sentido de uma palavra ou expressão",
+        "descricao": "Deduzir o significado de palavras ou expressões a partir do contexto.",
+        "exemplos": [
+          "No contexto, a palavra 'fulminante' significa:",
+          "A expressão 'águas passadas' refere-se a:",
+          "O termo 'escaldante' indica:"
+        ]
+      },
+      {
+        "codigo": "H03",
+        "habilidade": "Inferir uma informação implícita em um texto",
+        "descricao": "Deduzir informações que não estão explicitamente declaradas no texto.",
+        "exemplos": [
+          "É possível concluir que o personagem estava:",
+          "Deduz-se que o autor pretende:",
+          "Pode-se inferir que o resultado foi:"
+        ]
+      },
+      {
+        "codigo": "H04",
+        "habilidade": "Identificar o tema de um texto",
+        "descricao": "Reconhecer o assunto principal ou tema central do texto.",
+        "exemplos": [
+          "O texto fala principalmente sobre:",
+          "O tema central do texto é:",
+          "O assunto tratado no texto refere-se a:"
+        ]
+      },
+      {
+        "codigo": "H05",
+        "habilidade": "Distinguir um fato da opinião relativa a esse fato",
+        "descricao": "Diferenciar entre informações factuais e opiniões pessoais no texto.",
+        "exemplos": [
+          "Qual das seguintes frases expressa uma opinião?",
+          "A afirmação que representa um fato é:",
+          "No texto, o que é apresentado como opinião do autor?"
+        ]
+      },
+      {
+        "codigo": "H06",
+        "habilidade": "Interpretar texto com auxílio de material gráfico diverso",
+        "descricao": "Compreender textos que incluem gráficos, tabelas, mapas, imagens etc.",
+        "exemplos": [
+          "De acordo com o gráfico, é correto afirmar:",
+          "A imagem complementa o texto indicando:",
+          "Observando a tabela, pode-se concluir:"
+        ]
+      },
+      {
+        "codigo": "H07",
+        "habilidade": "Identificar a tese de um texto",
+        "descricao": "Reconhecer o ponto de vista defendido pelo autor em textos argumentativos.",
+        "exemplos": [
+          "A tese defendida pelo autor é:",
+          "O ponto de vista apresentado no texto é:",
+          "A ideia principal que o autor defende:"
+        ]
+      },
+      {
+        "codigo": "H08",
+        "habilidade": "Estabelecer relação entre a tese e os argumentos",
+        "descricao": "Identificar como os argumentos sustentam a tese apresentada.",
+        "exemplos": [
+          "O argumento que sustenta a tese é:",
+          "Para defender seu ponto de vista, o autor utiliza:",
+          "A justificativa apresentada para a tese é:"
+        ]
+      }
+    ],
+    "implicacoes_suporte": [
+      {
+        "codigo": "H09",
+        "habilidade": "Identificar a finalidade de textos de diferentes gêneros",
+        "descricao": "Reconhecer o objetivo comunicativo de diferentes tipos de texto.",
+        "exemplos": [
+          "A finalidade deste texto é:",
+          "O autor escreveu este texto para:",
+          "O objetivo do texto é:"
+        ]
+      },
+      {
+        "codigo": "H10",
+        "habilidade": "Identificar o conflito gerador do enredo e os elementos que constroem a narrativa",
+        "descricao": "Reconhecer o problema central e os elementos narrativos (tempo, espaço, personagens).",
+        "exemplos": [
+          "O conflito principal da narrativa é:",
+          "O espaço onde ocorre a história é:",
+          "O tempo da narrativa corresponde a:"
+        ]
+      }
+    ],
+    "relacao_textos": [
+      {
+        "codigo": "H11",
+        "habilidade": "Reconhecer diferentes formas de tratar uma informação na comparação de textos",
+        "descricao": "Identificar diferentes abordagens sobre o mesmo tema em textos distintos.",
+        "exemplos": [
+          "Os dois textos diferem quanto a:",
+          "Em relação ao mesmo tema, os textos apresentam:",
+          "A principal diferença entre os textos é:"
+        ]
+      },
+      {
+        "codigo": "H12",
+        "habilidade": "Reconhecer posições distintas entre duas ou mais opiniões relativas ao mesmo fato ou tema",
+        "descricao": "Identificar pontos de vista divergentes sobre um mesmo assunto.",
+        "exemplos": [
+          "Os autores discordam principalmente sobre:",
+          "As opiniões apresentadas divergem em:",
+          "O ponto de conflito entre as posições é:"
+        ]
+      }
+    ],
+    "coerencia_coesao": [
+      {
+        "codigo": "H13",
+        "habilidade": "Estabelecer relações entre partes de um texto",
+        "descricao": "Identificar relações lógicas entre diferentes segmentos do texto.",
+        "exemplos": [
+          "A relação entre os parágrafos é de:",
+          "O conectivo indica relação de:",
+          "A sequência dos fatos mostra relação de:"
+        ]
+      },
+      {
+        "codigo": "H14",
+        "habilidade": "Identificar a tese de um texto",
+        "descricao": "Localizar a ideia central defendida em textos argumentativos.",
+        "exemplos": [
+          "A tese do texto está expressa em:",
+          "O autor defende que:",
+          "A ideia principal do texto é:"
+        ]
+      }
+    ],
+    "relacao_recursos": [
+      {
+        "codigo": "H15",
+        "habilidade": "Estabelecer relações entre recursos expressivos e efeitos de sentido",
+        "descricao": "Identificar como recursos linguísticos produzem efeitos específicos no texto.",
+        "exemplos": [
+          "O uso de aspas no texto indica:",
+          "A repetição da palavra produz efeito de:",
+          "A escolha do tempo verbal sugere:"
+        ]
+      }
+    ],
+    "variacao_linguistica": [
+      {
+        "codigo": "H16",
+        "habilidade": "Identificar as marcas linguísticas que evidenciam o locutor e o interlocutor de um texto",
+        "descricao": "Reconhecer elementos que indicam quem fala e para quem se fala no texto.",
+        "exemplos": [
+          "O texto é dirigido a:",
+          "A linguagem utilizada indica que o locutor é:",
+          "As marcas linguísticas mostram que o interlocutor é:"
+        ]
+      }
+    ]
+  },
+  "matematica": {
+    "numeracao_operacoes": [
+      {
+        "codigo": "H01",
+        "habilidade": "Reconhecer e utilizar características do sistema de numeração decimal",
+        "descricao": "Compreender valor posicional, ordens e classes dos números naturais.",
+        "exemplos": [
+          "O valor posicional do algarismo 5 em 1.542 é:",
+          "Quantas centenas há no número 2.347?",
+          "Qual número tem 3 unidades de milhar e 7 centenas?"
+        ]
+      },
+      {
+        "codigo": "H02",
+        "habilidade": "Identificar a localização de números naturais na reta numérica",
+        "descricao": "Posicionar e comparar números em representações na reta numérica.",
+        "exemplos": [
+          "Na reta numérica, o número 25 fica entre:",
+          "Qual número está posicionado no ponto indicado?",
+          "O número mais próximo de 150 na reta é:"
+        ]
+      },
+      {
+        "codigo": "H03",
+        "habilidade": "Resolver problema utilizando a escrita decimal de cédulas e moedas do sistema monetário brasileiro",
+        "descricao": "Trabalhar com valores monetários e suas representações decimais.",
+        "exemplos": [
+          "R$ 2,50 correspondem a quantos centavos?",
+          "Qual o troco de uma compra de R$ 12,30 paga com R$ 20,00?",
+          "Represente R$ 5,75 usando cédulas e moedas:"
+        ]
+      },
+      {
+        "codigo": "H04",
+        "habilidade": "Resolver problema envolvendo diferentes significados da adição e subtração",
+        "descricao": "Aplicar adição e subtração em diferentes contextos (juntar, separar, comparar).",
+        "exemplos": [
+          "Ana tinha 35 figurinhas. Ganhou mais 18. Com quantas ficou?",
+          "Qual a diferença entre 87 e 39?",
+          "João comprou 3 pacotes de 12 balas cada. Quantas balas comprou?"
+        ]
+      },
+      {
+        "codigo": "H05",
+        "habilidade": "Resolver problema envolvendo diferentes significados da multiplicação e divisão",
+        "descricao": "Aplicar multiplicação e divisão como adição repetida, proporcionalidade, etc.",
+        "exemplos": [
+          "5 caixas com 8 ovos cada uma. Total de ovos:",
+          "36 balas divididas igualmente entre 4 crianças:",
+          "Se 3 canetas custam R$ 9,00, quanto custam 7 canetas?"
+        ]
+      }
+    ],
+    "algebra_funcoes": [
+      {
+        "codigo": "H06",
+        "habilidade": "Identificar padrões numéricos ou princípios de contagem",
+        "descricao": "Reconhecer sequências, regularidades e padrões em arranjos numéricos.",
+        "exemplos": [
+          "Na sequência 2, 4, 8, 16, ..., o próximo termo é:",
+          "Quantos triângulos há na figura?",
+          "Complete a sequência: 3, 6, 9, 12, ..."
+        ]
+      },
+      {
+        "codigo": "H07", 
+        "habilidade": "Resolver problema envolvendo equações do 1º grau",
+        "descricao": "Encontrar valores desconhecidos em situações que envolvem igualdades.",
+        "exemplos": [
+          "Se x + 15 = 32, então x vale:",
+          "Qual número multiplicado por 4 resulta em 28?",
+          "A idade de Pedro mais 7 anos é igual a 19. Idade de Pedro:"
+        ]
+      }
+    ],
+    "geometria": [
+      {
+        "codigo": "H08",
+        "habilidade": "Identificar propriedades comuns e diferenças entre figuras bidimensionais e tridimensionais",
+        "descricao": "Reconhecer características de formas geométricas planas e espaciais.",
+        "exemplos": [
+          "Quantas faces tem um cubo?",
+          "Qual figura tem todos os lados iguais?",
+          "Diferença entre quadrado e retângulo:"
+        ]
+      },
+      {
+        "codigo": "H09",
+        "habilidade": "Identificar propriedades de triângulos pela comparação de medidas de lados e ângulos",
+        "descricao": "Classificar triângulos quanto aos lados e ângulos.",
+        "exemplos": [
+          "Um triângulo com lados 3, 4 e 5 é:",
+          "Triângulo com um ângulo de 90° é chamado:",
+          "Triângulo com todos os lados iguais é:"
+        ]
+      },
+      {
+        "codigo": "H10",
+        "habilidade": "Resolver problema utilizando propriedades dos polígonos",
+        "descricao": "Aplicar conhecimentos sobre polígonos em situações-problema.",
+        "exemplos": [
+          "Soma dos ângulos internos de um quadrilátero:",
+          "Quantas diagonais tem um pentágono?",
+          "Perímetro de um hexágono regular com lado 4 cm:"
+        ]
+      }
+    ],
+    "grandezas_medidas": [
+      {
+        "codigo": "H11",
+        "habilidade": "Resolver problema envolvendo o cálculo de perímetro de figuras planas",
+        "descricao": "Calcular o contorno de figuras geométricas bidimensionais.",
+        "exemplos": [
+          "Perímetro de um retângulo 8m × 5m:",
+          "Cerca necessária para cercar um terreno quadrado de 12m de lado:",
+          "Contorno de um triângulo com lados 3, 4 e 5 metros:"
+        ]
+      },
+      {
+        "codigo": "H12",
+        "habilidade": "Resolver problema envolvendo o cálculo de área de figuras planas",
+        "descricao": "Calcular a superfície de figuras geométricas bidimensionais.",
+        "exemplos": [
+          "Área de um retângulo 6m × 4m:",
+          "Quantos metros quadrados tem um quadrado de lado 7m?",
+          "Área de um triângulo com base 10cm e altura 6cm:"
+        ]
+      },
+      {
+        "codigo": "H13",
+        "habilidade": "Resolver problema envolvendo relações entre diferentes unidades de medida",
+        "descricao": "Converter entre unidades de comprimento, massa, capacidade, tempo.",
+        "exemplos": [
+          "2 metros equivalem a quantos centímetros?",
+          "1 hora e 30 minutos correspondem a quantos minutos?",
+          "2,5 kg são quantos gramas?"
+        ]
+      }
+    ],
+    "tratamento_informacao": [
+      {
+        "codigo": "H14",
+        "habilidade": "Ler informações e dados apresentados em tabelas",
+        "descricao": "Interpretar dados organizados em formato tabular.",
+        "exemplos": [
+          "Segundo a tabela, quantos alunos preferem futebol?",
+          "Qual o total de vendas no mês de março?",
+          "Em que mês houve maior produção?"
+        ]
+      },
+      {
+        "codigo": "H15",
+        "habilidade": "Ler informações e dados apresentados em gráficos",
+        "descricao": "Interpretar dados apresentados em diferentes tipos de gráficos.",
+        "exemplos": [
+          "No gráfico, qual a temperatura em julho?",
+          "Quantos votos teve o candidato B?",
+          "Em que ano a população foi maior?"
+        ]
+      },
+      {
+        "codigo": "H16",
+        "habilidade": "Resolver problema envolvendo informações apresentadas em tabelas e/ou gráficos",
+        "descricao": "Usar dados de tabelas e gráficos para resolver situações-problema.",
+        "exemplos": [
+          "Qual a diferença entre as vendas de janeiro e março?",
+          "Quantos alunos participaram da pesquisa no total?",
+          "Qual o aumento percentual de um ano para outro?"
+        ]
+      }
+    ]
+  }
+}
